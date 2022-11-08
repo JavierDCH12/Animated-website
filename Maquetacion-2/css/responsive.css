@@ -1,0 +1,390 @@
+
+@media (max-width: 1185px){
+    .wrap{
+        width: 90%;
+        margin: 0px auto;
+
+    }
+    .card{
+        width: 15%;
+        margin-right: 2.1%;
+        overflow: hidden;
+    }
+    .card .category{
+        font-size: 15px;
+    }
+    .card .description{
+        width: 90%;
+        display: block;
+        margin: 0px auto;
+        text-align: center;
+        margin-top: 15px;
+    }
+
+
+    #articles{
+        width: 63%;    
+    }
+    #articles article{
+        width: 90%;
+    }
+    #footer .wrap > div{
+        width: 23%;
+        margin: 5%;   
+    }
+    #footer h5 {
+        font-size: 25px;
+    }
+    #footer #browsers img {
+        width: 14%;
+    }
+    #footer ul li a {
+        height: 33px;
+        font-size: 20px;
+    }
+    
+    #banner h1 {
+        font-size: 35px;
+        text-align: center;
+        width: 100%;
+    }
+
+}
+
+@media (max-width: 901px){
+    .card .category {
+        font-size: 15px;
+    }
+    .card .description{
+        font-size: 15px;
+    }
+    #articles {
+        width: 61%;
+    }
+}
+
+@media (max-width: 898px){
+    
+    #articles {
+        width: 61%;
+    }
+    #footer h5 {
+        font-size: 23px;
+    }
+}
+
+@media (max-width: 855px){
+    
+    #articles {
+        width: 61%;
+    }
+    #footer h5 {
+        font-size: 23px;
+    }
+    #lateral {
+        width: 27%;
+        
+    }
+    #lateral input[type="text"] {
+        width: 87%;
+    }
+    .aside-box {
+        width: 69%;
+        min-height: 140px;
+    }
+    #login input[type="email"], #login input[type="password"] {
+        
+        width: 64%;
+    }
+    #lateral input[type="button"], #lateral input[type="submit"] {
+        height: 17px;
+        padding: none;
+    }
+    #login input[type="submit"], #login input[type="button"], #login button {
+        height: 19%;
+        min-height: 25px;
+    }
+    #login input[type="reset"]{
+        display: none;
+    }
+    #login a {
+        text-decoration: none;
+        display: block;
+        font-size: 15px;
+        color: #555;
+        margin-top: 15px;
+        margin-left: 15px;
+        margin-bottom: 15px;
+    }
+    #lateral h3 {
+        font-size: 26px;
+        text-align: center;
+    }
+
+}
+
+@media (max-width: 842px){
+    #banner h1 {
+        font-size: 28px;
+    }
+    .card .description {
+        display: none;
+    }
+    .card {
+        width: 14%;
+        margin-right: 2.1%;
+        overflow: hidden;
+        height: auto;
+        min-height: 180px;
+    }
+    .card .category {
+        font-size: 17px;
+    }
+    #lateral h3 {
+        font-size: 26px;
+        text-align: center;
+    }
+    .card {
+        margin-top: 28px;
+    }
+    #footer img {
+        margin-bottom: 13px;
+        max-width: 100%;
+    }
+    #articles {
+        width: 61%;
+        margin-left: 31px;
+    }
+    
+    
+}
+
+
+@media (max-width: 813px){
+    #footer h5 {
+        font-size: 22px;
+    }
+    #lateral h3 {
+        font-size: 26px;
+        text-align: center;
+        padding-left: 2px;
+    }
+    #header{
+        width: 100%;
+        height: 129px;
+    }
+    #menu{
+        float: none;
+        margin: 0px auto;
+        width: 442px;
+        clear: both;
+        margin-top: 5px;
+    }
+    #logo {
+        float: right;
+        margin-right: 275px;
+        margin-bottom: 17px;
+    }
+    #banner {
+        margin-top: 19px;
+    }
+    #lateral input[type="text"] {
+        width: 81%;
+    }
+
+ 
+}
+
+@media (max-width: 840px){
+    
+    #footer h5 {
+        font-size: 18px;
+        height: 43px;
+    }
+
+}
+
+@media (max-width: 804px){
+    #logo {
+        float: right;
+        margin-right: 294px;
+    }
+    .wrap {
+        width: 98%;
+        margin: 0px auto;
+    }
+    #articles{
+        width: 100%;
+        float: none;
+        margin: 0px auto;
+    }
+
+    #articles h2{
+        width: 98%;
+    }
+
+    #lateral{
+        margin: 0px auto;
+        width: 100%;
+        float: none;
+        margin-top: 245px;
+        min-height: auto;
+    }
+
+    #lateral h3 {
+        font-size: 32px;
+        text-align: center;
+        padding-left: 11px;
+    }
+
+
+
+    #lateral h3:first-child {
+        margin-bottom: 24px;
+    }
+    #cards{
+        margin-right: -39px;
+    }
+    #lateral input[type="text"] {
+        width: 90%;
+    }
+    .aside-box {
+        width: 79%;
+        min-height: 140px;
+        margin-left: 80px;
+    }
+    #login input[type="email"], #login input[type="password"] {
+        width: 89%;
+    }
+    #login #password {
+        margin-left: 38px;
+    }
+    #login #user, #login #password {
+        margin-left: 35px;
+    }
+    #login input[type="submit"], #login input[type="button"], #login button {
+        height: 19%;
+        min-height: 37px;
+        float: right;
+        margin-right: 80px;
+        margin-top: 30px;
+    }
+    #login a{
+        font-size: 23px;
+    }
+
+
+    #footer{
+        height: auto;
+        padding-bottom: 78px;
+
+    }
+
+    #footer .wrap > div{
+        width: 100%;
+        margin: 0px auto; 
+        margin-top: 20px;  
+    }
+    #footer h5 {
+        font-size: 35px;
+    }
+
+}
+
+@media (max-width: 657px){
+    #banner {
+        width: 95%;
+        height: 80px;
+    }
+    #banner h1 {
+        font-size: 27px;   
+    }
+    .card .icon {
+        line-height: 136px;
+        font-size: 36px;  
+    }
+    .card .icon:hover {
+        line-height: 136px;
+        font-size: 36px;  
+    }
+    .card .category {
+        font-size: 14px;
+    }
+    .card {
+        width: 14%;
+        margin-right: 0.1%;
+    }
+    .aside-box {
+        width: 80%;
+        min-height: 140px;
+        margin-left: 58px;
+    }
+}
+
+@media (max-width: 617px){
+    #logo {
+        float: right;
+        margin-right: 212px;
+    }
+}
+
+@media (max-width: 484px){
+    .card {
+        width: 14%;
+        margin-right: 0.1%;
+    }
+    #logo {
+        float: right;
+        margin-right: 142px;
+    }
+}
+
+
+@media (max-width: 471px){
+    #logo {
+        float: right;
+        margin-right: 212px;
+    }
+
+    #header{
+        width: 100%;
+        height: 241px;
+    }
+
+    #menu{
+        width: 100%;
+        margin: 0px auto;
+        clear: both;
+        float: none;
+        height: 300px;
+    }
+
+    #menu ul li{
+        width: 100%;
+        font-size: 24px;
+        line-height: 30px;
+    }
+
+    #menu ul li a{
+        width: 100%;
+        font-size: 24px;
+        line-height: 30px
+    }
+    #menu ul li a:hover{
+        color: #37bcf9;
+        transform: scale(1, 1);
+    }
+    #articles .data {
+        float: none;
+        border-radius: 0px 0px 0px 0px;
+    }
+    #articles h4 {
+        font-size: 22px;
+        margin-top: 20px;
+    }
+}
+
+
+
+
+
